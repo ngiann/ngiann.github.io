@@ -1,2 +1,2 @@
-# ngiann.github.io
-Personal research page
+# Nikos Giannioti's personal research page
+
