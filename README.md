@@ -1,2 +1,2 @@
-# Nikos Giannioti's personal research page
+# Nikos Gianniotis' personal research page
 
