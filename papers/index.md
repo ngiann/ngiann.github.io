@@ -100,16 +100,16 @@ Nikolaos Gianniotis, Peter Tiňo\
 Similarity-Based Clustering, LNAI, 2009 [pdf](https://www.dropbox.com/s/jv37zymu0oaf2gl/SpringerBook%20-%20Visualization%20of%20Structured%20Data.pdf?dl=0)
 
 
-**<span style="color: blue">Visualisation of Tree-Structured Data through Generative Topographic Mapping**\
+**<span style="color: blue">Visualisation of Tree-Structured Data through Generative Topographic Mapping</span>**\
 Nikolaos Gianniotis, Peter Tiňo\
 IEEE Transactions on Neural Networks, 2008 [pdf](https://www.dropbox.com/s/ydzz07wbe7u9c3m/IEEE2008%20-%20Visualisation%20of%20Tree-Structured%20Data.pdf?dl=0)
 
 
-**<span style="color: blue">Metric Properties of Structured Data Visualizations through Generative Probabilistic Modeling**\
+**<span style="color: blue">Metric Properties of Structured Data Visualizations through Generative Probabilistic Modeling</span>**\
 Peter Tiňo, Nikolaos Gianniotis\
 International Joint Conference on Artificial Neural Networks, (IJCAI) 2007 [pdf](https://www.dropbox.com/s/tolg5urgkgh5q7m/IJCAI2007%20-%20Metric%20Properties%20of%20Structured%20Data.pdf?dl=0)
 
 
-**<span style="color: blue">Visualisation of Tree-structured Data through Generative Probabilistic Modelling**\
+**<span style="color: blue">Visualisation of Tree-structured Data through Generative Probabilistic Modelling</span>**\
 Nikolaos Gianniotis, Peter Tiňo\
 European Symposium on Artificial Neural Networks, 2007 [pdf](https://www.dropbox.com/s/kh0yg0wml3fhe7j/esann2007%20-%20Visualisation%20of%20Tree-structured%20Data.pdf?dl=0)
