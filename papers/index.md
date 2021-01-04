@@ -61,7 +61,7 @@ Pattern Analysis and Applications, Springer, 2015 [pdf](https://www.dropbox.com/
 
 
 **Manifold Aligned Ground Motion Prediction Equations for Regional Datasets**\
-Nikolaos Gianniotis, Nicolas Kühn, Frank Scherbaum
+Nikolaos Gianniotis, Nicolas Kühn, Frank Scherbaum\
 Computers and Geosciences, Elsevier, 2014 [link](http://www.sciencedirect.com/science/article/pii/S0098300414001009)
 
 
