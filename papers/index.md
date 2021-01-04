@@ -28,3 +28,12 @@ IEEE Symposium on Computational Intelligence and Data Mining, SSCI, 2016 [pdf](h
 **Parallelized rotation and flipping INvariant Kohonen maps (PINK) on GPUs**\
 Kai L. Polsterer, Fabian Gieseke, Christian Igel, Bernd Doser, *Nikolaos Gianniotis*\
 European Symposium on Artificial Neural Networks, 2016
+
+
+**An Explorative Approach for Inspecting Kepler Data**\
+Dennis Kügler, *Nikolaos Gianniotis*, Kai L. Polsterer\
+Monthly Notices of the Royal Astronomical Society Vol. 455, 2015 [link](http://mnras.oxfordjournals.org/content/455/4/4399.full.pdf?keytype=ref&ijkey=89uWPFVKYauzzBD)
+
+**Approximate Variational Inference Based on a Finite Sample of Gaussian Latent Variables**\
+*Nikolaos Gianniotis*, Christoph Schnörr, Christian Molkenthin, Sanjay Singh Bora\
+Pattern Analysis and Applications, Springer, 2015 [pdf](https://www.dropbox.com/s/0az44x42f56jj4c/ApproxVariational_PAAA_preprint.pdf?dl=0) [link](http://link.springer.com/article/10.1007%2Fs10044-015-0496-9)
