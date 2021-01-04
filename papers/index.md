@@ -30,24 +30,14 @@ Dennis Kügler, Nikolaos Gianniotis, Kai L. Polsterer\
 IEEE Symposium on Computational Intelligence and Data Mining, SSCI, 2016 [pdf](https://www.dropbox.com/s/z2tdk8h5pz3usmr/SSCI2016%20-%20A%20Spectral%20Model%20for%20Multimodal%20Redshift%20Estimation.pdf?dl=0)
 
 
-**Model-Coupled Autoencoder for Time Series Visualisation**\
-Nikolaos Gianniotis, Dennis Kügler, Peter Tino, Kai L. Polsterer\
-Neurocomputing, 2016 [pdf](https://www.dropbox.com/s/19rrw30w991mr25/Neucom2016%20-%20Model%20coupled%20autoencoder.pdf?dl=0) [link](http://www.sciencedirect.com/science/article/pii/S0925231216002587)
-
-
 **Parallelized rotation and flipping INvariant Kohonen maps (PINK) on GPUs**\
 Kai L. Polsterer, Fabian Gieseke, Christian Igel, Bernd Doser, Nikolaos Gianniotis\
 European Symposium on Artificial Neural Networks, 2016
 
 
-**Featureless Classification of Light Curves**\
-Dennis Kügler, Nikolaos Gianniotis, and Kai L. Polsterer\
-Monthly Notices of the Royal Astronomical Society Vol. 451, 2015 [pdf](http://arxiv.org/pdf/1504.04455v2)
-
-
-**Autoencoding Time Series for Visualisation**\
-Nikolaos Gianniotis, Dennis Kügler, Peter Tiňo, Kai Polsterer, Ranjeev Misra
-European Symposium on Artificial Neural Networks, 2015 [pdf](https://www.dropbox.com/s/jzza4lsmml6bin5/esann2015%20-%20Autoencoding%20time%20series.pdf?dl=0)
+**Model-Coupled Autoencoder for Time Series Visualisation**\
+Nikolaos Gianniotis, Dennis Kügler, Peter Tino, Kai L. Polsterer\
+Neurocomputing, 2016 [pdf](https://www.dropbox.com/s/19rrw30w991mr25/Neucom2016%20-%20Model%20coupled%20autoencoder.pdf?dl=0) [link](http://www.sciencedirect.com/science/article/pii/S0925231216002587)
 
 
 **An Explorative Approach for Inspecting Kepler Data**\
@@ -58,6 +48,16 @@ Monthly Notices of the Royal Astronomical Society Vol. 455, 2015 [link](http://m
 **Approximate Variational Inference Based on a Finite Sample of Gaussian Latent Variables**\
 Nikolaos Gianniotis, Christoph Schnörr, Christian Molkenthin, Sanjay Singh Bora\
 Pattern Analysis and Applications, Springer, 2015 [pdf](https://www.dropbox.com/s/0az44x42f56jj4c/ApproxVariational_PAAA_preprint.pdf?dl=0) [link](http://link.springer.com/article/10.1007%2Fs10044-015-0496-9)
+
+
+**Featureless Classification of Light Curves**\
+Dennis Kügler, Nikolaos Gianniotis, and Kai L. Polsterer\
+Monthly Notices of the Royal Astronomical Society Vol. 451, 2015 [pdf](http://arxiv.org/pdf/1504.04455v2)
+
+
+**Autoencoding Time Series for Visualisation**\
+Nikolaos Gianniotis, Dennis Kügler, Peter Tiňo, Kai Polsterer, Ranjeev Misra
+European Symposium on Artificial Neural Networks, 2015 [pdf](https://www.dropbox.com/s/jzza4lsmml6bin5/esann2015%20-%20Autoencoding%20time%20series.pdf?dl=0)
 
 
 **Manifold Aligned Ground Motion Prediction Equations for Regional Datasets**\
@@ -74,6 +74,10 @@ IEEE Symposium on Computational Intelligence and Data Mining, SSCI, 2013 [pdf](h
 Nikolaos Gianniotis, Carsten Riggelsen\
 IEEE Symposium on Computational Intelligence and Ensemble Learning, SSCI, 2013 [pdf](https://www.dropbox.com/s/l5gjr9nmn8bss9r/SSCI2013%20-%20Visualisation%20of%20High-Dimensional%20Data.pdf?dl=0)
 
+
+**Autoencoding Ground Motion Data for Visualisation**\
+Nikolaos Gianniotis, Carsten Riggelsen, Nicolas Kühn, Frank Scherbaum\
+International Conference on Artificial Neural Networks, 2012 [pdf](https://www.dropbox.com/s/fsgzhxwuvtcdd7c/icann2012%20-%20Autoencoding%20Ground%20Motion%20Data.pdf?dl=0)
 
 **Learning Aggregations of Ground Motion Models From Data**\
 Carsten Riggelsen, Nikolaos Gianniotis, Frank Scherbaum\
