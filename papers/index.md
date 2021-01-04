@@ -5,12 +5,12 @@ title: Papers
 ## Publication list
 
 
-**<span style="color: red">Optical continuum photometric reverberation mapping of the Seyfert-1 galaxy Mrk509</span>**\
+**<span style="color: blue">Optical continuum photometric reverberation mapping of the Seyfert-1 galaxy Mrk509</span>**\
 F. Pozo Nunez, N. Gianniotis, J. Blex, T. Lisow, R. Chini, K. L. Polsterer, J.-U. Pott, J. Esser, G. Pietrzy\
 Monthly Notices of the Royal Astronomical Society, MNRAS, 2019 [link](https://doi.org/10.1093/mnras/stz2830)
 
 
-**Mixed Variational Inference**\
+**<span style="color: blue">Mixed Variational Inference</span>**\
 Nikolaos Gianniotis\
 International Joint Conference on Neural Networks, IJCNN, 2019 [pdf](https://arxiv.org/pdf/1901.04791.pdf) [link](https://doi.org/10.1109/IJCNN.2019.8852348)
 
