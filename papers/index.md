@@ -30,6 +30,14 @@ Kai L. Polsterer, Fabian Gieseke, Christian Igel, Bernd Doser, *Nikolaos Giannio
 European Symposium on Artificial Neural Networks, 2016
 
 
+**Featureless Classification of Light Curves**\
+Dennis Kügler, *Nikolaos Gianniotis*, and Kai L. Polsterer\
+Monthly Notices of the Royal Astronomical Society Vol. 451, 2015 [pdf](http://arxiv.org/pdf/1504.04455v2)
+
+**Autoencoding Time Series for Visualisation**\
+*Nikolaos Gianniotis*, Dennis Kügler, Peter Tino, Kai Polsterer, Ranjeev Misra
+European Symposium on Artificial Neural Networks, 2015 [pdf](https://www.dropbox.com/s/jzza4lsmml6bin5/esann2015%20-%20Autoencoding%20time%20series.pdf?dl=0)
+
 **An Explorative Approach for Inspecting Kepler Data**\
 Dennis Kügler, *Nikolaos Gianniotis*, Kai L. Polsterer\
 Monthly Notices of the Royal Astronomical Society Vol. 455, 2015 [link](http://mnras.oxfordjournals.org/content/455/4/4399.full.pdf?keytype=ref&ijkey=89uWPFVKYauzzBD)
