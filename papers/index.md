@@ -42,7 +42,7 @@ Neurocomputing, 2016 [pdf](https://www.dropbox.com/s/19rrw30w991mr25/Neucom2016%
 
 **An Explorative Approach for Inspecting Kepler Data**\
 Dennis Kügler, Nikolaos Gianniotis, Kai L. Polsterer\
-Monthly Notices of the Royal Astronomical Society Vol. 455, 2015 [link](http://mnras.oxfordjournals.org/content/455/4/4399.full.pdf?keytype=ref&ijkey=89uWPFVKYauzzBD)
+Monthly Notices of the Royal Astronomical Society Vol. 455, 2015 [link](https://doi.org/10.1093/mnras/stv2604)
 
 
 **Approximate Variational Inference Based on a Finite Sample of Gaussian Latent Variables**\
