@@ -29,19 +29,6 @@ IEEE Symposium on Computational Intelligence and Data Mining, SSCI, 2016 [pdf](h
 Kai L. Polsterer, Fabian Gieseke, Christian Igel, Bernd Doser, *Nikolaos Gianniotis*\
 European Symposium on Artificial Neural Networks, 2016
 
-**Manifold Aligned Ground Motion Prediction Equations for Regional Datasets**\
-*Nikolaos Gianniotis*, Nicolas Kühn, Frank Scherbaum
-Computers and Geosciences, Elsevier, 2014 [link](http://www.sciencedirect.com/science/article/pii/S0098300414001009)
-
-**Interpretable Magnification Factors for Topographic Maps of High Dimensional and Structured Data**\
-Nikolaos Gianniotis\
-IEEE Symposium on Computational Intelligence and Data Mining, SSCI, 2013 [pdf](https://www.dropbox.com/s/0hhp365pmdlr7sm/SSCI2013%20-%20Interpretable%20Magnification%20Factors.pdf?dl=0)
-
-**Visualisation of High-Dimensional Data Using an Ensemble of Neural Networks**\
-*Nikolaos Gianniotis*, Carsten Riggelsen\
-IEEE Symposium on Computational Intelligence and Ensemble Learning, SSCI, 2013 [pdf](https://www.dropbox.com/s/l5gjr9nmn8bss9r/SSCI2013%20-%20Visualisation%20of%20High-Dimensional%20Data.pdf?dl=0)
-
-
 **Featureless Classification of Light Curves**\
 Dennis Kügler, *Nikolaos Gianniotis*, and Kai L. Polsterer\
 Monthly Notices of the Royal Astronomical Society Vol. 451, 2015 [pdf](http://arxiv.org/pdf/1504.04455v2)
@@ -57,3 +44,22 @@ Monthly Notices of the Royal Astronomical Society Vol. 455, 2015 [link](http://m
 **Approximate Variational Inference Based on a Finite Sample of Gaussian Latent Variables**\
 *Nikolaos Gianniotis*, Christoph Schnörr, Christian Molkenthin, Sanjay Singh Bora\
 Pattern Analysis and Applications, Springer, 2015 [pdf](https://www.dropbox.com/s/0az44x42f56jj4c/ApproxVariational_PAAA_preprint.pdf?dl=0) [link](http://link.springer.com/article/10.1007%2Fs10044-015-0496-9)
+
+
+**Manifold Aligned Ground Motion Prediction Equations for Regional Datasets**\
+*Nikolaos Gianniotis*, Nicolas Kühn, Frank Scherbaum
+Computers and Geosciences, Elsevier, 2014 [link](http://www.sciencedirect.com/science/article/pii/S0098300414001009)
+
+**Interpretable Magnification Factors for Topographic Maps of High Dimensional and Structured Data**\
+Nikolaos Gianniotis\
+IEEE Symposium on Computational Intelligence and Data Mining, SSCI, 2013 [pdf](https://www.dropbox.com/s/0hhp365pmdlr7sm/SSCI2013%20-%20Interpretable%20Magnification%20Factors.pdf?dl=0)
+
+**Visualisation of High-Dimensional Data Using an Ensemble of Neural Networks**\
+*Nikolaos Gianniotis*, Carsten Riggelsen\
+IEEE Symposium on Computational Intelligence and Ensemble Learning, SSCI, 2013 [pdf](https://www.dropbox.com/s/l5gjr9nmn8bss9r/SSCI2013%20-%20Visualisation%20of%20High-Dimensional%20Data.pdf?dl=0)
+
+
+**Learning Aggregations of Ground Motion Models From Data**\
+Carsten Riggelsen, *Nikolaos Gianniotis*, Frank Scherbaum\
+International Conference on Applications of Statistics and Probability in Civil Engineering, 2011
+
