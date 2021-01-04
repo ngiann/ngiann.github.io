@@ -23,3 +23,8 @@ International Conference on Neural Information Processing, ICONIP, 2017 [pdf](ht
 **A Spectral Model for Multimodal Redshift Estimation**\
 Dennis Kügler, *Nikolaos Gianniotis*, Kai L. Polsterer\
 IEEE Symposium on Computational Intelligence and Data Mining, SSCI, 2016 [pdf](https://www.dropbox.com/s/z2tdk8h5pz3usmr/SSCI2016%20-%20A%20Spectral%20Model%20for%20Multimodal%20Redshift%20Estimation.pdf?dl=0)
+
+
+**Parallelized rotation and flipping INvariant Kohonen maps (PINK) on GPUs**\
+Kai L. Polsterer, Fabian Gieseke, Christian Igel, Bernd Doser, *Nikolaos Gianniotis*\
+European Symposium on Artificial Neural Networks, 2016
