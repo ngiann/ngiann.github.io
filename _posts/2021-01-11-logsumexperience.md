@@ -1,4 +1,10 @@
-## First test entry.
+---
+layout: post
+title: "First every test entry"
+date: 2021-01-11
+---
+
+# Hello world
 
 How about this for a blog title?
 
