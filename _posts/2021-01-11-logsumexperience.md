@@ -4,8 +4,6 @@ title: "First every test entry"
 date: 2021-01-11
 ---
 
-# Hello world
-
 How about this for a blog title?
 
 This will be a blog used primarily to keep track of my own notes.
