@@ -1,4 +1,4 @@
-## Logsumexperience
+## My blog: logsumexperience
 
 First test entry.
 
