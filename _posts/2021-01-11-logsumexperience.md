@@ -1,6 +1,4 @@
-## My blog: logsumexperience
-
-First test entry.
+## First test entry.
 
 How about this for a title?
 
