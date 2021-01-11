@@ -2,8 +2,8 @@
 layout: default
 title: Papers
 ---
-## **Publication list**
 
+<h2> <p style="color:#FF5733"> Publication list </p> </h2>
 
 **Optical continuum photometric reverberation mapping of the Seyfert-1 galaxy Mrk509**\
 F. Pozo Nunez, N. Gianniotis, J. Blex, T. Lisow, R. Chini, K. L. Polsterer, J.-U. Pott, J. Esser, G. Pietrzy\
