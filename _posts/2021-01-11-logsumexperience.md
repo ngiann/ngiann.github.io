@@ -1,6 +1,6 @@
 ## First test entry.
 
-How about this for a title?
+How about this for a blog title?
 
 This will be a blog used primarily to keep track of my own notes.
 
