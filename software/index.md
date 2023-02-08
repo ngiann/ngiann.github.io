@@ -9,7 +9,7 @@ title: Nikos Gianniotis, Machine learning researcher
 The following codes are available as packages registed with the general Julia registry.
   
 <ul>
-  <li><a href="https://github.com/ngiann/ApproximateVI.jl">ApproximateVI.jl</a>: A Julia package for approximating a posterior distribution with a full-covariance Gaussian distribution.</li>
+  <li><a href="https://github.com/ngiann/GaussianVariationalInference.jl">GaussianVariationalInference.jl</a>: A Julia package for approximating a posterior distribution with a full-covariance Gaussian distribution.</li>
   <li><a href="https://github.com/ngiann/FastParzenWindows.jl">FastParzenWindows.jl</a>: Efficient kernel-based method for non-parametric probability
 density function estimation.</li>
 </ul>
