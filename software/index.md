@@ -14,4 +14,10 @@ The following codes are available as packages registed with the general Julia re
 density function estimation.</li>
 </ul>
 
+The following codes are available as packages registed with the <a href="https://github.com/ngiann/GaussianVariationalInference.jl">AIN registry</a>.
+  
+<ul>
+  <li><a href="https://github.com/HITS-AIN/GPCC.jl">GPCC.jl</a>: A Bayesian reformulation of cross-correlation for detecting delays in signals.</li>
+</ul>  
+  
 </div><!-- /.blurb -->
