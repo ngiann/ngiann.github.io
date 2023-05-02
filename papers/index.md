@@ -5,6 +5,10 @@ title: Papers
 
 <h2> <p style="color:#FF5733"> Publication list </p> </h2>
 
+**A Gaussian process cross-correlation approach to time-delay estimation in active galactic nuclei**\
+F. Pozo Nunez, N. Gianniotis, K. L. Polsterer\
+Astronomy & Astrophysics, 2023 [link](https://doi.org/10.1051/0004-6361/202345932)
+
 **Disentangling the optical AGN and host-galaxy luminosity with a probabilistic flux variation gradient**\
 N. Gianniotis, F. Pozo Nunez, K. L. Polsterer\
 Astronomy & Astrophysics, 2021 [pdf](https://arxiv.org/abs/2109.03619)
