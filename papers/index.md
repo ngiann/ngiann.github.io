@@ -5,7 +5,7 @@ title: Papers
 
 <h2> <p style="color:#FF5733"> Publication list </p> </h2>
 
-** Positive and Scale Invariant Gaussian Process Latent Variable Model for Astronomical Spectra **\
+**Positive and Scale Invariant Gaussian Process Latent Variable Model for Astronomical Spectra**\
 N. Gianniotis, I. Cortés Pérez, K. L. Polsterer\
 European Symposium on Artificial Neural Networks, 2024 [pdf](https://www.dropbox.com/scl/fi/z8djmhymiw41qf7vv2jz2/gplvmplus.pdf?rlkey=38ctsf2d73kgcmmxqo9oervlh)
 
